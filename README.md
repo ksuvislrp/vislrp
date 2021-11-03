@@ -65,7 +65,7 @@ year = {2021}
 		
 
 ## License
-MIT License. See [`LICENSE.md`](LICENSE.md).
+MIT License. See [`LICENSE.md`](https://github.com/ksuvislrp/vislrp/blob/1979af492f999a69894b0592ddaf08652630b56d/LICENSE.md).
 
 
 
