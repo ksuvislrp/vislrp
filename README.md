@@ -2,14 +2,14 @@
 ### Description
 VisLRPDesigner is a visual designer application for layerwise relevance propagation (LRP) rules[1,2]
 - **Paper:**  https://doi.org/10.1111/cgf.14302
-- **Code and Data:** https://github.com/TODO
+- **Code and Data:** https://github.com/ksuvislrp/vislrp
 
 
 ## Running VisLRPDesigner user interface Locally
 ### Getting code ready
 - Download or clone this repository:
 ```bash
-git clone https://github.com/TODO.git
+git clone https://github.com/ksuvislrp/vislrp.git
 ```
 
 - This project is written in python 3.7.3 and PyTorch 1.3.1. The dependencies can be installed by running:
