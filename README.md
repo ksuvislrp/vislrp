@@ -4,6 +4,7 @@ VisLRPDesigner is a visual designer application for layerwise relevance propagat
 - **Paper:**  https://doi.org/10.1111/cgf.14302
 - **Code and Data:** https://github.com/ksuvislrp/vislrp
 
+<a href="https://youtu.be/zxUOVbIGcOw?t=4518" target="_blank"><img src="resources/UI_Preview.png" style="max-width:100%;"></a>
 
 ## Running VisLRPDesigner user interface Locally
 ### Getting code ready
