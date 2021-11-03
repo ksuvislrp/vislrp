@@ -1,0 +1,79 @@
+{
+    "name": "Configuration-2",
+    "date": "2020-10-12",
+    "time": "20:58:28",
+    "configuration": [
+        {
+            "id": 0,
+            "method": [
+                "gamma"
+            ],
+            "x0": 1,
+            "x1": 11,
+            "theta0": 0,
+            "theta1": 1,
+            "gamma0": 0,
+            "gamma1": 1,
+            "gamma1p": 0.3,
+            "gamma1n": 0,
+            "gamma2": 0,
+            "eps": 0,
+            "alpha": 1,
+            "beta": 0
+        },
+        {
+            "id": 1,
+            "method": [
+                "customize"
+            ],
+            "x0": 11,
+            "x1": 24,
+            "theta0": 0,
+            "theta1": 1,
+            "gamma0": 0,
+            "gamma1": 1,
+            "gamma1p": 0,
+            "gamma1n": 0,
+            "gamma2": 1,
+            "eps": 0,
+            "alpha": 1,
+            "beta": 0
+        },
+        {
+            "id": 2,
+            "method": [
+                "epsilon"
+            ],
+            "x0": 24,
+            "x1": 31,
+            "theta0": 0,
+            "theta1": 1,
+            "gamma0": 0,
+            "gamma1": 1,
+            "gamma1p": 0,
+            "gamma1n": 0,
+            "gamma2": 0,
+            "eps": 0.3,
+            "alpha": 1,
+            "beta": 0
+        },
+        {
+            "id": 3,
+            "method": [
+                "0"
+            ],
+            "x0": 31,
+            "x1": 39,
+            "theta0": 0,
+            "theta1": 1,
+            "gamma0": 0,
+            "gamma1": 1,
+            "gamma1p": 0,
+            "gamma1n": 0,
+            "gamma2": 0,
+            "eps": 0,
+            "alpha": 1,
+            "beta": 0
+        }
+    ]
+}
